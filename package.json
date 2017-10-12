@@ -1,0 +1,22 @@
+{
+  "name": "wong",
+  "version": "1.0.0",
+  "description": "Wellman Offline Next Gen ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skywalkerjo/WONG.git"
+  },
+  "author": "Skywalker Jo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skywalkerjo/WONG/issues"
+  },
+  "homepage": "https://github.com/skywalkerjo/WONG#readme",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
